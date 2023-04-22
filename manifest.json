@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Video İndirme Eklentisi",
+    "version": "1.0",
+    "description": "Twitch'ten video indirme eklentisi",
+    "content_scripts": [
+      {
+        "matches": ["https://www.twitch.tv/*"],
+        "js": ["content.js"],
+        "run_at": "document_end"
+      }
+    ]
+  }
+  
