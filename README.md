@@ -29,5 +29,5 @@ This is a browser extension that allows you to download Twitch videos with just 
 
 - Google Chrome
 - Microsoft Edge
-
+- Brave
 
